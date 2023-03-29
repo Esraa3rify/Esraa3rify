@@ -31,10 +31,6 @@
 <!--   grid-snake -->
 ![](https://github.com/Esraa3rify/Esraa3rify/blob/output/github-contribution-grid-snake.svg)
 
-
-
 #### Thanks for visiting :heart:
-
-
 
 ![](assets/Bottom_down.svg)
