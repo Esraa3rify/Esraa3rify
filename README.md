@@ -4,6 +4,10 @@
 ![](assets/Bottom_up.svg)
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/41123719/164349573-0fdfef29-1ff9-4978-b43f-a2774a0282cd.gif" width="140" /> 
+
+
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Esraa+Arify;+Welcome+to+My+Profile!;Always+learning+new+things+;Android+Developer)](https://git.io/typing-svg)
 
