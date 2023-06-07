@@ -13,9 +13,8 @@
 
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Esraa3rify&theme=github-compact)](https://github.com/Esraa3rify/github-readme-activity-graph)
+
+
 
 | ![Esraa's github stats](https://github-readme-stats.vercel.app/api?username=Esraa3rify&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa3rify&theme=radical&layout=compact) |
 
